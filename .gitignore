@@ -1,1 +1,4 @@
 .idea
+postgresql-data
+api
+app
